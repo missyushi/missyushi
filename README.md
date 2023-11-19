@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @missyushi
-- 👀 I’m interested in economics
-- 🌱 I’m currently learning computational economics
-- 💞️ I’m looking to collaborate on macrodevelopment
+- 👀 I’m a graduate student in economics
+- 🌱 I’m interested in macroeconomics, economic development, financial economics
 
 <!---
 missyushi/missyushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
